@@ -10,4 +10,4 @@
 
 <br>
 <p align = "center"><font size = "3">我们的微信公众号</font></p>
-<p align = "center"><img src = "http://github.com/noeltong/jndxtwzx/raw/master/image/qrcode.jpg"></p>
+<p align = "center"><img src = "https://raw.githubusercontent.com/noeltong/jndxtwzx/master/image/qrcode.jpg"></p>
